@@ -152,7 +152,7 @@ public class UploadCategoriesClass {
             }
         }
         
-        return 'SUCCESS DONE';
+
     }
     
     
